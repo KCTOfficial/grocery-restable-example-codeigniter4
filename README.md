@@ -6,7 +6,7 @@ This is an example project. It shows how to use the
 learning, so read [Before going to production](#12-before-going-to-production) before you reuse any of it on a real
 server.
 
-Looking for the version without a framework? See the `grocery-restable-native` project.
+Looking for the version without a framework? See the [`grocery-restable-native`](https://github.com/KCTOfficial/grocery-restable-example-native) project.
 
 ## Contents
 
